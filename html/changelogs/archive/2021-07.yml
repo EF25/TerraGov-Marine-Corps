@@ -28,3 +28,8 @@
   - bugfix: The Mateba revolver belt now can be used at the max capacity.
   Wayland-Smithy:
   - bugfix: Fixed revolver reload logic.
+2021-07-02:
+  InterroLouis:
+  - bugfix: Fixed Mateba open sprite
+  Wayland-Smithy:
+  - bugfix: Fixed OB beacons being activatable on dropships.
